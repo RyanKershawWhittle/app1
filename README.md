@@ -1,4 +1,4 @@
-App 1
-=====
+Dev
+===
 
-Sample Splunk app named app1 for CI/CD testing.
+Splunk app `dev` — primary development target in the dev → test promotion flow.
